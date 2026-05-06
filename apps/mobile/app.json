@@ -32,7 +32,9 @@
           "icon": "./assets/notification-icon.png",
           "color": "#6366F1"
         }
-      ]
+      ],
+      "expo-font",
+      "expo-localization"
     ],
     "scheme": "flashcardapp",
     "experiments": {
