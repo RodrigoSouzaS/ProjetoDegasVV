@@ -36,7 +36,7 @@
     ],
     "scheme": "flashcardapp",
     "experiments": {
-      "typedRoutes": true
+      "typedRoutes": false
     }
   }
 }
