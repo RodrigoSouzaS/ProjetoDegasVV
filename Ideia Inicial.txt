@@ -1,0 +1,36 @@
+App de flashcard customizavel
+
+Referencias de apps 
+    - Anki (Pai, gratuito)
+    - Duolingo (gameficação e leaderboard)
+    - Memrise (estilo de repetição e leaderboard)
+    - Monetização quizlet ou Kanji study (formas diferentes, estudar a melhor)
+
+
+Telas
+    - Home
+        - Streak, Nivel / Pontos , posição na leaderboard (#101), calendario de atividade,  Atalho pro ultimo deck  
+                                    - Algoritmo para SRS:  (azul (palavras novas), vermelho (dificil), verde (revisar))
+    - Login/Cadastro
+        - Login usuario e senha, Google, Apple
+        - Cadastro, nome de usuario , email, senha ou google , apple  
+
+    - Gestão de Decks (Pasta para organizar decks)
+        - botão de criar novo ou importar, card dos decks ja criados 
+                - botão novo deck : nome , publico/privado, adicionar palavra (chave, valor), salvar
+                - Importar : importar arquivo csv do aparelho do aparelho do usuario
+                - Edição apenas permitida para o dono
+
+    - Home do deck 
+        - Modos de estudo (frente e verso (não pontua), multipla escolha, type), leaderboard, editar , listar palavras como "cards"
+                                            
+    - Busca de decks , busca por decks publicos , como opção de "adicionar na biblioteca"
+
+    - Leaderboard
+        - Ranking dos players , lista os top 100 jogadores, busca por jogador
+
+    - Professor 
+        - compartilhar link para se vincular aos alunos, e acesso a area de alunos , com um resumo da atividade 
+        daquele aluno, podendo dar feedbacks pro aluno, e enviar decks para ele, aluno tambem ganha acesso aos
+        decks compartilhados pelo professor
+

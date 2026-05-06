@@ -1,0 +1,16 @@
+{
+  "name": "flashcard-app",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "backend": "npm run dev --workspace=apps/backend",
+    "mobile": "npm run start --workspace=apps/mobile",
+    "mobile:android": "npm run android --workspace=apps/mobile",
+    "mobile:ios": "npm run ios --workspace=apps/mobile"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
